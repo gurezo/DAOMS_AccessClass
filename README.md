@@ -1,0 +1,4 @@
+# DAOMS_AccessClass
+このﾓｼﾞｭｰﾙはMicrosoft Access用のﾓｼﾞｭｰﾙです
+このﾓｼﾞｭｰﾙを使用する場合は、参照設定で、MicroSoft DAO3.6
+いずれかを選択していることを確認してください
